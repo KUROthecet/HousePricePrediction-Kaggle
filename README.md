@@ -1,1 +1,1 @@
-# Intro-AI-Project-HousePricePrediction
+# HousePricePrediction-Kaggle
